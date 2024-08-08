@@ -1,3 +1,4 @@
+```sh
 E:\Lab\devops\devopstest1>git branch develop
 
 E:\Lab\devops\devopstest1>git branch qa
@@ -259,3 +260,4 @@ To https://github.com/cgssiva/devopstest1.git
    0784ea0..79642d2  prod -> prod
 
 E:\Lab\devops\devopstest1>
+```
